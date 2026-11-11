@@ -20,3 +20,6 @@ Thumbs.db
 .DS_Store
 .vscode/
 .claude/settings.local.json
+
+# Third-party reference images (not ours to publish)
+projects/*/reference*.png
