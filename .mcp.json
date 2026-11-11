@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "flow": {
+      "command": "node",
+      "args": ["C:/Users/LENOVO/creative/google-flow/dist/index.js"]
+    },
+    "fish-audio": {
+      "type": "http",
+      "url": "https://api.fish.audio/mcp"
+    },
+    "blender": {
+      "command": "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/astral-sh.uv_Microsoft.Winget.Source_8wekyb3d8bbwe/uvx.exe",
+      "args": ["mcp-for-blender"],
+      "env": { "DISABLE_TELEMETRY": "true" }
+    }
+  }
+}

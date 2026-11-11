@@ -1,0 +1,22 @@
+# Third-party tool clones (have their own git history)
+google-flow/
+
+# Generated media — large binaries; keep out of git (use Git LFS later if needed)
+media/
+
+# Node / Python
+node_modules/
+dist/
+__pycache__/
+.venv/
+
+# Secrets
+.env
+.env.*
+*.key
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
+.claude/settings.local.json
